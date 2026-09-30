@@ -1,4 +1,4 @@
-password= 12345678
+password= 1234567098
 passw = int(input("Enter your password : "))
 if passw==password:
     print("Login successful")
